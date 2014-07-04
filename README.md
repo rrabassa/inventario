@@ -1,2 +1,2 @@
-inventario
+Inventário
 ==========
